@@ -1,0 +1,7 @@
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\bin\Debug\QuickDate.exe.config
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\bin\Debug\QuickDate.exe
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\bin\Debug\QuickDate.pdb
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\Debug\QuickDate.csproj.CoreCompileInputs.cache
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\Debug\QuickDate.exe
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\Debug\QuickDate.pdb
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\Debug\QuickDate.csprojAssemblyReference.cache

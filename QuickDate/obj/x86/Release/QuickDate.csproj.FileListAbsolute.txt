@@ -1,0 +1,7 @@
+C:\Users\ivank\Desktop\QuickDate.exe.config
+C:\Users\ivank\Desktop\QuickDate.exe
+C:\Users\ivank\Desktop\QuickDate.pdb
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\x86\Release\QuickDate.csprojAssemblyReference.cache
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\x86\Release\QuickDate.csproj.CoreCompileInputs.cache
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\x86\Release\QuickDate.exe
+E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDate\obj\x86\Release\QuickDate.pdb
