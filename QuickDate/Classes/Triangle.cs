@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace QuickDate.Classes
 {
+    /// <summary>
+    ///             TASK
+    /// Даны положительные действительные числа a, b,c. 
+    /// Выяснить, существует ли треугольник с длинами сторон a, b,c. 
+    /// Если существует, определить его тип по углам (остроугольный, прямоугольный, тупоугольный).
+    /// </summary>
     public class Triangle
     {
         /// <summary>
