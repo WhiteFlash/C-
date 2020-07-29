@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hB0j2ytDwAvcAaNnanxvumv8mhs01m54RnKXXmxjl6amY5MtJNcgONrAviIshyY13ceVlk/Qgo2q8Ud3/Cz3Yw==",
+  "dgSpecHash": "HA7kTEIKjVBuI7AmUuyElLrc592ZvWwZixtka02wfaYWAFK/IX7hV+bo0iDV8HvgsqwQrEZLOL9lcg4jWzo5Zg==",
   "success": true,
-  "projectFilePath": "E:\\All-files\\Desktop\\Studying\\VS-learning\\QuickSolution\\QuickDateUnitTest\\QuickDateUnitTest.csproj",
+  "projectFilePath": "E:\\All-files\\Desktop\\Studying\\C-Sharp\\QuickDateUnitTest\\QuickDateUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivank\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\ivank\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

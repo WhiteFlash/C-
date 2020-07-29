@@ -6900,11 +6900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\All-files\\Desktop\\Studying\\VS-learning\\QuickSolution\\QuickDateUnitTest\\QuickDateUnitTest.csproj",
+      "projectUniqueName": "E:\\All-files\\Desktop\\Studying\\C-Sharp\\QuickDateUnitTest\\QuickDateUnitTest.csproj",
       "projectName": "QuickDateUnitTest",
-      "projectPath": "E:\\All-files\\Desktop\\Studying\\VS-learning\\QuickSolution\\QuickDateUnitTest\\QuickDateUnitTest.csproj",
+      "projectPath": "E:\\All-files\\Desktop\\Studying\\C-Sharp\\QuickDateUnitTest\\QuickDateUnitTest.csproj",
       "packagesPath": "C:\\Users\\ivank\\.nuget\\packages\\",
-      "outputPath": "E:\\All-files\\Desktop\\Studying\\VS-learning\\QuickSolution\\QuickDateUnitTest\\obj\\",
+      "outputPath": "E:\\All-files\\Desktop\\Studying\\C-Sharp\\QuickDateUnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft\\Xamarin\\NuGet\\"
@@ -6924,8 +6924,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\All-files\\Desktop\\Studying\\VS-learning\\QuickSolution\\QuickDate\\QuickDate.csproj": {
-              "projectPath": "E:\\All-files\\Desktop\\Studying\\VS-learning\\QuickSolution\\QuickDate\\QuickDate.csproj"
+            "E:\\All-files\\Desktop\\Studying\\C-Sharp\\QuickDate\\QuickDate.csproj": {
+              "projectPath": "E:\\All-files\\Desktop\\Studying\\C-Sharp\\QuickDate\\QuickDate.csproj"
             }
           }
         }
@@ -6971,7 +6971,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

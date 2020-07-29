@@ -95,3 +95,9 @@ E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDateUnitTest\obj\De
 E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.dll
 E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.pdb
 E:\All-files\Desktop\Studying\VS-learning\QuickSolution\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.genruntimeconfig.cache
+E:\All-files\Desktop\Studying\C-Sharp\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.csprojAssemblyReference.cache
+E:\All-files\Desktop\Studying\C-Sharp\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.AssemblyInfoInputs.cache
+E:\All-files\Desktop\Studying\C-Sharp\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.AssemblyInfo.cs
+E:\All-files\Desktop\Studying\C-Sharp\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.csproj.CoreCompileInputs.cache
+E:\All-files\Desktop\Studying\C-Sharp\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.dll
+E:\All-files\Desktop\Studying\C-Sharp\QuickDateUnitTest\obj\Debug\netcoreapp3.1\QuickDateUnitTest.pdb
