@@ -69,7 +69,7 @@ namespace QuickDate.Classes
         /// <returns></returns>
         public bool CheckExisting()
         {
-            var flag = false;
+            bool flag = false;
             if(this.A + this.B > this.C)
             {
                 return true;
@@ -142,7 +142,7 @@ namespace QuickDate.Classes
         /// Method where all the logic is contained.
         /// In the main program it has to be called in order to use the program.
         /// </summary>
-        public static void ExecuteProgram()
+        public static async Task ExecuteProgram()
         {
             int count = 0;
             while (count <= 10)
@@ -155,7 +155,9 @@ namespace QuickDate.Classes
                 triengle.B = int.Parse(Console.ReadLine());
                 triengle.C = int.Parse(Console.ReadLine());
 
-                var exists = triengle.CheckExisting();
+                bool checkTask = triengle.CheckExisting();
+                bool exists = checkTask;
+
                 if (exists)
                 {
                     Console.WriteLine("Triangle exists");
