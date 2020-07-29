@@ -13,7 +13,9 @@ namespace QuickDate
     {
         static void Main(string[] args)
         {
-            Triangle.ExecuteProgram();
+            //Triangle.ExecuteProgram();
+            //Sherlock_and_the_Valid_String.Maining();
+            //PlusMinus.ExecuteProgram();
             Console.ReadKey();
         }
     }
