@@ -47,7 +47,7 @@ namespace QuickDateUnitTest
         public void Check_GetToKnowType_Test()
         {
             var triangle = new Triangle(3, 4, 5);
-            var expected = "Pifagor";
+            var expected = "Right-angled";
             var actual = triangle.GetToKnowType(3, 4, 5);
 
             Assert.AreEqual(expected, actual);
