@@ -113,6 +113,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\EfficientJanitor.cs" />
     <Compile Include="Classes\PlusMinus.cs" />
     <Compile Include="Classes\Sherlock-and-the-Valid-String.cs" />
     <Compile Include="Program.cs" />
